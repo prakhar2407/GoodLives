@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566037613327",
+    "project_id": "goodlivesprakhar",
+    "storage_bucket": "goodlivesprakhar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566037613327:android:89083c3dd48014bf74cc7a",
+        "android_client_info": {
+          "package_name": "com.goodlivesprakhar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuF4uhpdgVkBCHcCN1Fzzk6UXIXcZy2c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
